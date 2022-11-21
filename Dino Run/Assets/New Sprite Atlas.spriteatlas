@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1d71b0995532c204a9c4115b7a48ca23, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 55c38370a8cd6314a8626c513e426605, type: 3}
+  - {fileID: -4709456396536258026, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -4529042392078601758, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -6287787046888575383, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -1182821291677670348, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -2311659948842064771, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: 7364682651488144517, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: 21300000, guid: 686af9210bf8e3042a0ce5aae4d44e44, type: 3}
+  - {fileID: 21300000, guid: bd79f3830e84cf543972a859dc0807e8, type: 3}
+  - {fileID: 21300000, guid: 9b4b10262b3633647896ced3dbbc81ea, type: 3}
+  - {fileID: 21300000, guid: f49c007801b3fe846803154bfa86dc81, type: 3}
+  - {fileID: 21300000, guid: 3649a01a49d94c947820dd1c88eb3975, type: 3}
+  - {fileID: 21300000, guid: 73c3f17bbee267148a2f224712eecba7, type: 3}
+  - {fileID: 21300000, guid: d5dceacb4ad9c71439838f9d84ddf1ae, type: 3}
+  - {fileID: 21300000, guid: f4a1ed8c5bcdb834889d9301f7ee1ab7, type: 3}
+  - {fileID: 21300000, guid: b73265accab188e409461260602e7e36, type: 3}
+  - {fileID: 21300000, guid: 56ea801d18819dd4eb62926f1c7c4a15, type: 3}
+  - {fileID: 21300000, guid: 509cb56e68eb2404b902437d87eaab5a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ground
+  - Jump
+  - Die
+  - Run 2
+  - Run 3
+  - Run 0
+  - Run 1
+  - Sky
+  - Cloud A
+  - UI Btn Down
+  - Cactus B
+  - UI Btn On
+  - Back A
+  - Cactus A
+  - Cloud B
+  - UI Over
+  - Back B
+  - Cactus C
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
