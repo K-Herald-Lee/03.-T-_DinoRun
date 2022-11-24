@@ -1,7 +1,7 @@
 # About "03.-T-_DinoRun"
 
 ## Description
-An windows-based game by following to GoldMetal's tutorial(https://www.youtube.com/watch?v=iENDSs0qXSs&list=PLO-mt5Iu5TebzgxMKYDw40mDxytgFBex0).
+An android-based game by following to GoldMetal's tutorial(https://www.youtube.com/watch?v=iENDSs0qXSs&list=PLO-mt5Iu5TebzgxMKYDw40mDxytgFBex0).
 
 ## What I've learned from this project is...
 - Unity & Visual scripting
